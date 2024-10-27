@@ -22,7 +22,7 @@ This project is a **React-based Online Library System** that allows users to man
 
 ### Live Demo
 
-_[Link](https://todo-app-mmj030703.netlify.app/)_
+_[Link](https://online-library-system.netlify.app/)_
 
 ---
 
@@ -82,7 +82,7 @@ To run this project locally, follow these steps:
 
 ## Screenshots
 
-[Screenshots](https://github.com/mmj030703/Internshala-JavaScript-Project-1---Weather-Application/wiki/Screenshots-of-the-App)
+[Screenshots](https://github.com/mmj030703/Internshala-Assignment-React-2-Online-Library-System/wiki/Screenshots-of-the-App)
 
 ---
 
